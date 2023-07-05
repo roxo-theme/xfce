@@ -3483,18 +3483,22 @@ infobar {
 
 infobar.info {
   background-color: #b4beee;
+  color: #1b1b1b;
 }
 
 infobar.question {
   background-color: #f9e2af;
+  color: #1b1b1b;
 }
 
 infobar.warning {
   background-color: #f9e2af;
+  color: #1b1b1b;
 }
 
 infobar.error {
   background-color: #f38ba8;
+  color: #1b1b1b;
 }
 
 infobar.info > label, infobar.info, infobar.question > label, infobar.question, infobar.warning > label, infobar.warning, infobar.error > label, infobar.error {
