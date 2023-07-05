@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Roxo-Theme
+Comment=A low-contrast, eye-friendly, dark purple theme.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Roxo-Theme
+MetacityTheme=Roxo-Theme
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
